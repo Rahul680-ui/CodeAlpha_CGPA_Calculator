@@ -95,5 +95,5 @@ Your CGPA is: 8.58
 
 ## 👨‍💻 Author
 
-Developed by Shadow as part of the CodeAlpha C++ Programming Internship.
+Developed by Rahul Sharma as part of the CodeAlpha C++ Programming Internship.
 
